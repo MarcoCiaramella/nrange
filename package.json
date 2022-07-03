@@ -1,6 +1,6 @@
 {
   "name": "@marco_ciaramella/nrange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sequence number generator in javascript",
   "main": "index.js",
   "scripts": {
