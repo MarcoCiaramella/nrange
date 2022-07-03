@@ -1,0 +1,23 @@
+{
+  "name": "@marco_ciaramella/nrange",
+  "version": "1.0.0",
+  "description": "Sequence number generator in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoCiaramella/nrange.git"
+  },
+  "keywords": [
+    "range",
+    "sequence"
+  ],
+  "author": "Marco Ciaramella",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/MarcoCiaramella/nrange/issues"
+  },
+  "homepage": "https://github.com/MarcoCiaramella/nrange#readme"
+}
