@@ -2,7 +2,7 @@
  * Generates an array of numbers from start to end.
  * @param {number} start first number of sequence
  * @param {number} end last number of sequence
- * @param {number | null | undefined} step step between two numbers. If not specified is 1 or -1
+ * @param {number} [step] step between two numbers. If not specified is 1 or -1
  * @returns {number[]} the sequence of numbers
  */
 export function nrange(start, end, step) {
